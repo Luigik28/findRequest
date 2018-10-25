@@ -1,2 +1,2 @@
 # findRequest
-Script per la ricerca di Request &amp; Response di un WS
+Script per la ricerca di Request &amp; Response SOAP di un WS
